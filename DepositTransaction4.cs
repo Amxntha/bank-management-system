@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankProjectV4
 {
-    class DepositTransaction : Transaction
+    public class DepositTransaction : Transaction
     {
         //Declaring instance variables//
         private Account _account;

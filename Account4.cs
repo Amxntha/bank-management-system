@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankProjectV4
 {
-    class Account
+    public class Account
     {
         //instance variables//
         private string _name;

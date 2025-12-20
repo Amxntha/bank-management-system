@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankProjectV4
 {
-    class TransferTransaction : Transaction
+    public class TransferTransaction : Transaction
     {
         //declaring instant variables//
         private Account _fromAccount;

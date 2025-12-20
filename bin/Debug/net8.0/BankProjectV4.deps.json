@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BankProjectV4/1.0.0": {
+        "runtime": {
+          "BankProjectV4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankProjectV4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

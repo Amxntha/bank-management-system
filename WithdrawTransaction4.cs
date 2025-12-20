@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BankProjectV4
 {
-    class WithdrawTransaction : Transaction
+    public class WithdrawTransaction : Transaction
     {
         //declaring instance variables//
         private Account _account;

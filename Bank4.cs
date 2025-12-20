@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankProjectV4
 {
-    class Bank
+    public class Bank
     {
         // Declaring list to store bank accounts //
         private List<Account> _accounts;

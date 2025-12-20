@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankProjectV4
 {
-    abstract class Transaction
+    public abstract class Transaction
     {
         // variables that are inherited by subclassess //
         protected decimal _amount;
